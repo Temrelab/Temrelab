@@ -1,4 +1,4 @@
-# Tarık Emre Camuşcu| IT Officer & Shopify Developer
+# Temrelab | IT Officer & Shopify Developer
 
 <p align="left">
   <em>Kurumsal BT operasyonlarının sürekliliğini sağlayan ve Shopify altyapılarını yöneten teknik operasyon sorumlusu.</em>
@@ -20,10 +20,11 @@
 
 | **Alan** | **Kullanılan Teknolojiler** |
 | :--- | :--- |
-| **🛍️ Shopify** | ![Shopify Flow](https://img.shields.io/badge/Shopify_Flow-Automation-95BF47?style=flat&logo=shopify&logoColor=white) ![Liquid](https://img.shields.io/badge/Liquid-Theme_Edit-0052CC?style=flat&logo=shopify) ![Shopify App](https://img.shields.io/badge/Shopify_App-Integration-008060?style=flat&logo=shopify) |
-| **🌐 Network** | ![Switch](https://img.shields.io/badge/Switch-Configuration-1BA0D7?style=flat&logo=ubiquiti&logoColor=white) ![Network](https://img.shields.io/badge/Network-Troubleshooting-005073?style=flat&logo=cisco&logoColor=white) ![LAN/WAN](https://img.shields.io/badge/LAN_/_WAN-Support-green?style=flat&logo=serverless&logoColor=white) |
-| **🏢 IT Support** | ![OMODA](https://img.shields.io/badge/OMODA-System_Support-E34F26?style=flat&logo=windows) ![Hardware](https://img.shields.io/badge/Hardware-Maintenance-5C5C5C?style=flat&logo=intel&logoColor=white) ![Tier 2](https://img.shields.io/badge/IT_Level-Tier_2-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
-| **💻 Tools** | ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white) ![Helpdesk](https://img.shields.io/badge/Helpdesk-Active_Support-blue?style=flat&logo=jira&logoColor=white) |
+| **💻 Web & Liquid** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Liquid](https://img.shields.io/badge/Liquid-Shopify-008060?style=flat&logo=shopify&logoColor=white) |
+| **🛍️ Shopify Ops** | ![Shopify Flow](https://img.shields.io/badge/Shopify_Flow-Automation-95BF47?style=flat&logo=shopify&logoColor=white) ![Shopify App](https://img.shields.io/badge/Shopify_App-Integration-008060?style=flat&logo=shopify) |
+| **🏢 IT Support** | ![OMODA](https://img.shields.io/badge/OMODA-System_Support-E34F26?style=flat&logo=windows) ![Tier 2](https://img.shields.io/badge/IT_Level-Tier_2-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-Maintenance-5C5C5C?style=flat&logo=intel&logoColor=white) |
+| **🌐 Network** | ![Switch](https://img.shields.io/badge/Switch-Configuration-1BA0D7?style=flat&logo=ubiquiti&logoColor=white) ![Network](https://img.shields.io/badge/Network-Troubleshooting-005073?style=flat&logo=cisco&logoColor=white) |
+| **🛠️ Tools** | ![Trello](https://img.shields.io/badge/Trello-Project_Mgmt-0052CC?style=flat&logo=trello&logoColor=white) ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 
@@ -31,14 +32,14 @@
 
 #### ▸ IT Altyapı & Donanım Yönetimi
 * **Sistem Kurulumu:** Personel bilgisayarlarının (PC) formatlanması, imajlanması ve gerekli lisanslı yazılımların kurulumu.
-* **Ağ Yönetimi:** Fabrika içi Switch ve Modemlerin yapılandırılması, kablolama ve internet erişim sorunlarının çözümü.
-* **Endüstriyel Cihazlar:** Barkod yazıcıların (Zebra ve benzeri markaların) ve el terminallerini, barkod okuyucularını ve etiket yazıcılarının sisteme entegrasyonu ve bakımı.
+* **Ağ Yönetimi:** Ofis içi Switch ve Modemlerin yapılandırılması, kablolama ve internet erişim sorunlarının çözümü.
+* **Endüstriyel Cihazlar:** Barkod yazıcıların (Zebra ve benzeri markalar) ve el terminallerinin sisteme entegrasyonu ve bakımı.
 * **OMODA Destek:** Sunucu tarafındaki kullanıcı yetkilendirmeleri ve sistemsel hataların takibi.
 
 #### ▸ Shopify Geliştirme
 * **Otomasyon:** Shopify Flow kullanarak sipariş ve stok takibi için otomatik iş akışlarının oluşturulması.
-* **Tema Düzenleme:** Liquid kodları ile mağaza arayüzünde (Frontend) istenilen revizelerin yapılması.
-* **App Entegrasyonu:** İhtiyaç duyulan 3. parti uygulamaların mağazaya kurulması ve ayarlarının yapılması.
+* **Tema Düzenleme:** HTML, CSS, JS ve Liquid kodları ile mağaza arayüzünde (Frontend) revizelerin yapılması.
+* **Proje Yönetimi:** Trello üzerinden iş akışlarının ve geliştirme süreçlerinin (Sprint) takibi.
 
 ---
 
