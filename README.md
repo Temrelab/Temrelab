@@ -1,4 +1,4 @@
-# Temrelab | IT Officer & Shopify Developer
+# Tarık Emre Camuşcu | IT Officer & Shopify Developer
 
 <p align="left">
   <em>Kurumsal BT operasyonlarının sürekliliğini sağlayan ve Shopify altyapılarını yöneten teknik operasyon sorumlusu.</em>
